@@ -1,0 +1,7 @@
+---
+layout: post
+title: "실습. HTML에 CSS디자인 적용한 웹페이지"
+date: 2025-03-28
+---
+
+<meta http-equiv="refresh" content="0; url=https://cheolhun00.github.io/drama-casting/index.html" />
